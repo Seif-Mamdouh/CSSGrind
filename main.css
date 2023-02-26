@@ -1,0 +1,23 @@
+/* 1. Style the above <h1> tag to use any color of your 
+choice and a sans-serif font. */ 
+
+#assignment-instructions{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+
+/* 2. Style all <code> tags to use the
+ monospace font-family and have red text. */
+
+ code {
+  font-family: monospace;
+  color: red;
+}
+
+
+/* 3. Use a class selector to ensure that the <code> elements 
+in the second 
+<li> element have a different color (e.g. green). */
